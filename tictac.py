@@ -142,7 +142,7 @@ while True:
         break
     else:
         f=True
-
+print("Your moves are Xs")
 
 if choice=="y":
     while True:
